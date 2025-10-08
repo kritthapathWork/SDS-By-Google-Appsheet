@@ -62,13 +62,29 @@
 ---
 
 ## 🖼️ UI Preview
+- ❗รูปภาพที่ใช้ประกอบ มีการปิดไม่ให้เห็นข้อมูลสำคัญบางส่วน เพื่อป้องกันข้อมูลของบริษัท และพนักงาน
 
 ### 🔸 Login Page
+<img width="1920" height="917" alt="login-image" src="https://github.com/user-attachments/assets/36613c35-b339-4256-8623-275350ead7c5" />
+
 ### 🔸 Homepage
+<img width="1919" height="917" alt="homepage-image-edit" src="https://github.com/user-attachments/assets/da10e013-b7aa-456d-87f8-ee274361f386" />
+
 ### 🔸 Order Page
+<img width="1920" height="920" alt="order-image" src="https://github.com/user-attachments/assets/c8f9be22-99f2-44d7-aeb6-47338d3b9a14" />
+
 ### 🔸 Order Detail Page
+<img width="1919" height="921" alt="order-detail-image-edit" src="https://github.com/user-attachments/assets/38baf4af-3c04-4193-a74b-b5a074593d15" />
+
 ### 🔸 Payment Page
+<img width="487" height="572" alt="payment-image" src="https://github.com/user-attachments/assets/ea408129-7c90-49fe-947c-199007514478" />
+
 ### 🔸 User Management Page
+<img width="524" height="248" alt="user-management-edit" src="https://github.com/user-attachments/assets/26c6020a-016b-4a47-b91c-b9fd2d480b18" />
+
 ### 🔸 Order Management Page
-### 🔸 User Management Page
+<img width="1849" height="350" alt="order-management-image-edit" src="https://github.com/user-attachments/assets/ad68c69e-45d8-44c9-9f7e-0849afd073fa" />
+
 ### 🔸 Report By Looker Studio Overview
+<img width="674" height="897" alt="report-image-edit" src="https://github.com/user-attachments/assets/d03af7b7-160a-4b5b-bf72-1fb4c22539b6" />
+
